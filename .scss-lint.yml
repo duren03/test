@@ -1,4 +1,0 @@
-# .scss-lint.yml
-# Other configurations StringQuotes:
-enabled: true
-style: double_quotes
